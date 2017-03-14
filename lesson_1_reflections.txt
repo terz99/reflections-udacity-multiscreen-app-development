@@ -4,3 +4,9 @@ What are intents? How many types are there? What is the difference between them?
 	intents: implicit and explicit. Implicit intents are used when the app should call or start an activity which can 
 	be handled by a different app. Explicit intents are used when the the app calls or starts an activiry within the 
 	same app.
+
+What are input events and event listeners?
+
+	- Input events are measured by the user. In other words, the user chooses the input event the wants to trigger 
+	(click, drag, long 	click...). Event listeners are components which are built in the Android SDK and they allow 
+	us to control what happens in a specific event.
