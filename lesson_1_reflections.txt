@@ -10,3 +10,11 @@ What are input events and event listeners?
 	- Input events are measured by the user. In other words, the user chooses the input event the wants to trigger 
 	(click, drag, long 	click...). Event listeners are components which are built in the Android SDK and they allow 
 	us to control what happens in a specific event.
+
+What is interface? What is abstract method and abstract class? What is concrete class?
+
+	- Concrete class is a class which already has default values for every instance and default algorithms for every
+	method. Abstract class cannot be instansiated since there must be at least one method which is not implemented.
+	Abstract method is non-implemented method. This has been put this so that the developer can implement that 
+	method himself. Interface is a collection of abstract methods. The interface can be implemented by a class
+	and therefore that class will inherit all the abstract methods which the interface possess.
