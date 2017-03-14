@@ -1,0 +1,6 @@
+What are intents? How many types are there? What is the difference between them?
+
+	- Intents are some kind of initiators which can initate/start a new activity in the app. There are two types of 
+	intents: implicit and explicit. Implicit intents are used when the app should call or start an activity which can 
+	be handled by a different app. Explicit intents are used when the the app calls or starts an activiry within the 
+	same app.
