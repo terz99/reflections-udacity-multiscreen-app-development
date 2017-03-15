@@ -1,0 +1,4 @@
+What is a ListView? What is an ArrayAdapter? How do they help you list all the items you need?
+
+	- ListView is a view group which shows a list of a items using an ArrayAdapter. ArrayAdapter provides resources
+	IDs from TextViews (by default). It recycles old not usable TextViews and uses them again to display new items. 
