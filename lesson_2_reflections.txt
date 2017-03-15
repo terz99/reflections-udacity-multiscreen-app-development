@@ -6,3 +6,9 @@ What is a ListView? What is an ArrayAdapter? How do they help you list all the i
 When to create a custom class?
 
 	- We create custom class when we need to combine more than one Objects given from Java.
+
+What is View Recycling?
+
+	- View recycling is reusing already used Views. By using ArrayAdapter we can put already used Views into
+	a scrap bunch which are called scrap Views. Those scrap Views are then used again when another item 
+	should be displayed. With this, when listing a lot of items, the memory usage is smaller.
