@@ -1,0 +1,5 @@
+What are synchronous callbacks and what are asynchronous callback?
+
+	- Synchronous callbacks executes on the same thread that called the method. 
+	Asynchronous callbakcs are part of an interface which are invoked when an event occurs or
+	a task completed.
